@@ -93,7 +93,6 @@
     <Build Include="Schema\Auth.sql" />
     <Build Include="Auth\ScalarFunction\udp_v1_ValidateLoggedInUser.sql" />
     <Build Include="Auth\StoredProcedure\usp_v1_User_Info_Get.sql" />
-    <Build Include="Auth\StoredProcedure\usp_v1_UserInfo_Save.sql" />
     <Build Include="Auth\Table\UserInfo.sql" />
     <Build Include="Lookups\Table\SubscriptionTypeInfo.sql" />
     <Build Include="Inventory\Table\ProductInfo.sql" />
