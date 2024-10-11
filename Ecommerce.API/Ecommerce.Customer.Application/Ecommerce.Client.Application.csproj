@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.Customer.API.DTO\Ecommerce.Client.API.DTO.csproj" />
     <ProjectReference Include="..\Ecommerce.Customer.Infrastructure\Ecommerce.Client.Infrastructure.csproj" />
     <ProjectReference Include="..\Ecommerce.Domain.Entities\Ecommerce.Domain.Entities.csproj" />
   </ItemGroup>
